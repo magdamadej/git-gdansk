@@ -1,0 +1,17 @@
+{
+    "name": "Blog o drzewach",
+    "short_name": "forestAPP",
+    "theme_color": "#0b7233",
+    "background_color": "#0b7233",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/git-gdansk/",
+    "icons" : [
+        {
+            "src": "./tree.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+  }
